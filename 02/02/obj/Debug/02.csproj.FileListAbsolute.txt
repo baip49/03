@@ -1,0 +1,10 @@
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\bin\Debug\02.exe.config
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\bin\Debug\02.exe
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\bin\Debug\02.pdb
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\02.csproj.AssemblyReference.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\_02.Form1.resources
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\_02.Properties.Resources.resources
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\02.csproj.GenerateResource.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\02.exe
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\03\02\02\obj\Debug\02.pdb
